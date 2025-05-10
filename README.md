@@ -33,8 +33,7 @@ Este repositório contém a resolução de um desafio proposto durante a **Ofici
 - `divide(a, b)`  
   **Descrição:** Divide o primeiro número pelo segundo.  
   **Retorno:** `a / b`  
-  **Tratamento de erro:** Se `b === 0`, lança um erro com a mensagem: `"Não é possível dividir por zero."`
-
+  **Tratamento de erro:** Se `b === 0`, lança um erro com a mensagem: `"Divisão por zero não permitida."`
 ### 📦 Queue (Fila)
 - `size()` – Retorna o tamanho da fila.
 - `add(item)` – Adiciona um item ao final da fila.
