@@ -48,8 +48,8 @@ Este repositório contém a resolução de um desafio proposto durante a **Ofici
    npm install
 
 2. Execute os testes:
-
-npm test
+   ```bash
+   npm test
 
 🎯 Objetivo do Desafio
 
